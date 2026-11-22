@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LexiGrid</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_play">Play</string>
+    <string name="nav_records">Records</string>
+    <string name="level_label">Level %1$d</string>
+    <string name="hint_action">Hint</string>
+    <string name="pause_action">Pause</string>
+    <string name="resume_action">Resume</string>
+    <string name="new_board_action">New Board</string>
+    <string name="next_level_action">Next Level</string>
+    <string name="replay_action">Replay</string>
+    <string name="puzzle_paused">Puzzle Paused</string>
+    <string name="paused_subtitle">Tap resume to continue your timer</string>
+    <string name="level_complete">Level %1$d Complete</string>
+    <string name="new_personal_best">New Personal Best</string>
+    <string name="pure_solve">Pure Solve</string>
+    <string name="records_title">Personal Records</string>
+    <string name="records_empty_title">No records yet</string>
+    <string name="records_empty_subtitle">Finish any level to log your first time on the local leaderboard.</string>
+    <string name="home_subtitle">Minimalist offline word search · Levels 1 to ∞</string>
+    <string name="continue_playing">Continue Playing</string>
+    <string name="start_playing">Start Level %1$d</string>
+</resources>

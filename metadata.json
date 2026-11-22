@@ -1,0 +1,6 @@
+{
+  "name": "LexiGrid",
+  "description": "Minimalist offline word search game with infinite dynamic levels, timer, hints, and local best-time leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
